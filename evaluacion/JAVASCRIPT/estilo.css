@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    font-family: 'Courier New';
+    font-size: 1em;
+}
+
+.div-titulo1 {
+    color: red; /*Color del texto*/
+    font-weight: normal; /*Estilo de la fuente de texto*/
+    font-size: 1.5em; /*Tamaño de la letra*/
+    text-align: center;
+    margin: 30px 0 30px 0;
+}
+
+.div-cuerpo {
+    color: black;
+    font-size: 0.8em;
+    text-align: center;
+}
+
+.text-entrada {
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+    width: 10%;
+    background-color: green;
+    color: white;
+    font-size: 1em;
+    height: 2em;
+    outline: none;
+}
+
+.text-salida {
+    color: red;
+    background-color: blue;
+}
+
+button {
+    background-color: black;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+    width: 10%;
+    font-size: 1em;
+    cursor: pointer;
+    height: 1.9em;
+}

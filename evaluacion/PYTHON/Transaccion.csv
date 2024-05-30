@@ -1,0 +1,37 @@
+IDTRANSACCION;CIUDAD;ZONA;VENTAS;FORMA PAGO;CATEGORIA
+1;Santander;Norte;1235;Contado;Electrodom�stico
+2;Santander;Norte;639.2;Tarjeta;Electrodom�stico
+3;Santander;Norte;621.39;Contado;Inform�tica
+4;Santander;Norte;1259.5;Tarjeta;Inform�tica
+5;Santander;Norte;2563.25;Contado;Audio y televisi�n
+6;Santander;Norte;1258.12;Tarjeta;Audio y televisi�n
+7;Sevilla;Sur;725.26;Contado;Electrodom�stico
+8;Sevilla;Sur;2563.39;Tarjeta;Electrodom�stico
+9;Sevilla;Sur;1258.36;Contado;Inform�tica
+10;Sevilla;Sur;1578.3;Tarjeta;Inform�tica
+11;Sevilla;Sur;953.26;Contado;Audio y televisi�n
+12;Sevilla;Sur;2359.25;Tarjeta;Audio y televisi�n
+13;Vigo;Norte;1259.14;Contado;Electrodom�stico
+14;Vigo;Norte;856.5;Tarjeta;Electrodom�stico
+15;Vigo;Norte;420.3;Contado;Inform�tica
+16;Vigo;Norte;2853;Tarjeta;Inform�tica
+17;Vigo;Norte;1933.6;Contado;Audio y televisi�n
+18;Vigo;Norte;1253.25;Tarjeta;Audio y televisi�n
+19;Alicante;Levante;3215.3;Contado;Electrodom�stico
+20;Alicante;Levante;1253.25;Tarjeta;Electrodom�stico
+21;Alicante;Levante;698.65;Contado;Inform�tica
+22;Alicante;Levante;2653.26;Tarjeta;Inform�tica
+23;Alicante;Levante;1588.99;Contado;Audio y televisi�n
+24;Alicante;Levante;996.65;Tarjeta;Audio y televisi�n
+25;Valencia;Levante;1254.4;Contado;Electrodom�stico
+26;Valencia;Levante;782.69;Tarjeta;Electrodom�stico
+27;Valencia;Levante;2133.25;Contado;Inform�tica
+28;Valencia;Levante;1120.36;Tarjeta;Inform�tica
+29;Valencia;Levante;1258.33;Contado;Audio y televisi�n
+30;Valencia;Levante;1255.2;Tarjeta;Audio y televisi�n
+31;Granada;Sur;2156.25;Contado;Electrodom�stico
+32;Granada;Sur;598.25;Tarjeta;Electrodom�stico
+33;Granada;Sur;1256.88;Contado;Inform�tica
+34;Granada;Sur;1455.3;Tarjeta;Inform�tica
+35;Granada;Sur;1788;Contado;Audio y televisi�n
+36;Granada;Sur;2120;Tarjeta;Audio y televisi�n

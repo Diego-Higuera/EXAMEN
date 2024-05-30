@@ -1,0 +1,7 @@
+C:\EXAMENCS\obj\Debug\EXAMENCS.csproj.AssemblyReference.cache
+C:\EXAMENCS\obj\Debug\EXAMENCS.csproj.CoreCompileInputs.cache
+C:\EXAMENCS\bin\Debug\EXAMENCS.exe.config
+C:\EXAMENCS\bin\Debug\EXAMENCS.exe
+C:\EXAMENCS\bin\Debug\EXAMENCS.pdb
+C:\EXAMENCS\obj\Debug\EXAMENCS.exe
+C:\EXAMENCS\obj\Debug\EXAMENCS.pdb
